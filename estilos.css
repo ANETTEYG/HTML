@@ -1,0 +1,34 @@
+body{
+    background-color:#ffa2d1;/*Color de fondo*/
+    color:#6a1e40;
+    font-family: 'PT Sans', sans-serif;
+    }
+    /*Vista de fuentes [Color, tamaño]*/
+h3 {
+    color:#962a55 ;
+    font-size:23px;
+    }
+    h1,p{
+        color:#d84273 ;
+    }
+    /* Vista de imagenes ancho,estilo de borde,color de el borde,margen derecha,margen entre imagene, padding*/
+    img{
+        width: 360px;
+        height:210px;
+        border-style:double solid;
+        border-color:#ff709f ;
+        margin-left:20px ;
+        margin-bottom:20px;
+        padding:15px;
+    }
+
+    /*Enlace web [Color]*/
+
+    a,small {
+        color:#ffd0f4;
+    }
+
+    /*Pie de página */    
+    footer{
+        color: #ffd0f4;
+    }
